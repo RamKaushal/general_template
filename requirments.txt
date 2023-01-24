@@ -2,3 +2,5 @@ mlflow
 tensorflow
 tqdm
 notebook
+pillow
+opencv-python
